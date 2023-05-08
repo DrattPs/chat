@@ -1,0 +1,41 @@
+
+body {
+
+    background: rgb(22,16,121);
+    background: linear-gradient(90deg, rgba(22,16,121,1) 0%, rgba(101,9,121,1) 39%, rgba(0,212,255,1) 100%);
+    color:white;
+    font-family: 'Raleway', sans-serif;
+    width:99%;
+}
+
+#c1{
+    height:110px;
+    margin-top:-10px;
+}
+
+#c2{
+    height:120px;
+}
+
+#d1{
+    width:600px;
+    height:400px;
+    background-color:whitesmoke;
+    color:black;
+    border-radius:17px;
+}
+
+#b1{
+    height:35px;
+    width:230px;
+    border-radius:8px;
+    border-width:1px;
+    background-color: rgba(0,212,255,1);
+}
+
+#i1{
+    width:350px;
+    height:30px;
+    border-radius:5px;
+    border-width:1px
+}
